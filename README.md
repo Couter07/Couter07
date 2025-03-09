@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm CouterIT</h1>
 <h3 align="center">A Student from Nong Lam University</h3>
+<img src="https://gifer.com/en/PX5H" width="300px" align="right" alt="">
 
 - 🌱 I’m currently learning **Basic Technology Skill**
 
