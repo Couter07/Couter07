@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm CouterIT</h1>
 <h3 align="center">A Student from Nong Lam University</h3>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZlaXppcDczZ3VjZ2cyN3ViaG03eGhmcTF3YTRkd3JmZWRyZ3k1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="500px" align="right" alt="Ảnh động">
+<img src="https://media1.giphy.com/media/jtXRDVzaCPXSynUz7h/200.webp?cid=ecf05e47erwslfmnsr6j3dvtn36pa9mbtrb0g349t8cm99cz&ep=v1_gifs_search&rid=200.webp&ct=g" width="500px" align="right" alt="Ảnh động">
 
 - 🌱 I’m currently learning **Basic Technology Skill**
 
